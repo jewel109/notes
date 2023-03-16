@@ -20,4 +20,5 @@ Wed Mar  8 09:21:23 AM +06 2023
 2023-03-16
 1.nvim enter completion and tab/S-tab cycling
 2.auto push to remote repo after commiting
+They are done
 
