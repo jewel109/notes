@@ -21,3 +21,25 @@ Wed Mar  8 09:21:23 AM +06 2023
 1.nvim enter completion and tab/S-tab cycling
 2.auto push to remote repo after commiting
 
+2023-03-17
+
+1.ranger download
+2.github (traap/dotfiles)
+
+2023-03-18
+- [x] lazyvim config
+
+2023-04-04
+neovim config switcher
+
+
+2023-03-29
+1.How to go to previous place of cursor in vim .
+2. learn from learnbyexample.github.io
+
+
+2023-04-02
+
+
+2023-04-03
+1.
