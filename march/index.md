@@ -43,3 +43,8 @@ neovim config switcher
 
 2023-04-03
 1.
+
+2023-04-05
+neovim config switcher
+escap key remap
+better quit from vim 
